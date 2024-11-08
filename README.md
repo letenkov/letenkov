@@ -20,8 +20,10 @@
 
 ### 📫 Как со мной связаться:
 
-- **Email:** [eletenkov@gmail.com](mailto:eletenkov@gmail.com)
-- **Telegram:** [@eletenkov](https://t.me/eletenkov)
+- **Website:** [letenkov.io](https://letenkov.io)
+- **Email:** [eugene@letenkov.io](mailto:eugene@letenkov.io)
+- **Telegram:** [@letenkov](https://t.me/letenkov)
+
 
 ### 💡 Чего я ищу:
 
