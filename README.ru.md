@@ -1,3 +1,6 @@
+[![🇬🇧 English Version](https://img.shields.io/badge/lang-English-blue)](./README.md)
+[![🇷🇺 Russian Version](https://img.shields.io/badge/lang-Russian-blue)](./README.ru.md)
+
 # 👋 Привет,
 
 **Опытный DevOps-инженер и консультант по автоматизации для бизнеса.**
