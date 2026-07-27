@@ -1,35 +1,120 @@
-[![🇷🇺 Russian Version](https://img.shields.io/badge/lang-Russian-blue)](./README.ru.md) 
-[![🇬🇧 English Version](https://img.shields.io/badge/lang-English-blue)](./README.md)
+[![Русская версия](https://img.shields.io/badge/lang-Русский-blue)](./README.ru.md)
+[![English version](https://img.shields.io/badge/lang-English-blue)](./README.md)
 
-# 👋 Hello,
+# Евгений Летенков
 
-**Experienced DevOps Engineer and Automation Consultant for Business**
+**Lead Platform Engineer · Data Platform Architect · Распределенные системы**
 
-I’m Evgeniy Letenkov, a DevOps expert with over 20 years of experience in IT. My mission is to help businesses automate processes, ensure infrastructure stability, and enhance security through open source technologies and modern DevOps approaches.
+Я проектирую и создаю инженерные и data-платформы для приложений, аналитики и AI-сценариев.
 
-### 🔧 My Core Specializations:
+Мой основной фокус — превращение сложной инфраструктуры в надежные, безопасные и поддерживаемые платформенные продукты, которые инженерные команды могут эксплуатировать и развивать без постоянного ручного вмешательства.
 
-- **DevOps and Automation:** Implementing CI/CD pipelines and managing infrastructure as code (IaC) with Terraform and Ansible.
-- **Containerization and Orchestration:** Setting up Kubernetes and Helm for scalable and flexible solutions.
-- **Integration and Security:** Using HashiCorp Vault for secrets management and configuring role-based access control models.
-- **Monitoring and Logging:** Setting up Prometheus and Grafana for monitoring and centralized logging to enable proactive infrastructure management.
+## Основные направления
 
-### 📈 About Me in Brief:
+### Platform Engineering
 
-- 📅 Over **20 years** in the IT industry
-- 💼 Proficient in **Kubernetes, GitLab CI, Ansible, Terraform, Vault**, and other DevOps tools
-- 🏢 Extensive experience in building and maintaining **high-load systems** for finance, telecom, and retail
-- 🌍 Worked with both Russian and international companies, delivering projects across multiple sectors
+- внутренние платформы для разработчиков;
+- механизмы самообслуживания;
+- Infrastructure as Code;
+- CI/CD и GitOps;
+- платформы на базе Kubernetes;
+- воспроизводимые среды и эксплуатационные процессы.
 
-### 📫 How to Reach Me:
+### Data Platforms
 
-- **Website:** [letenkov.io](https://letenkov.io)
-- **Email:** [eugene@letenkov.io](mailto:eugene@letenkov.io)
+- событийные и потоковые архитектуры;
+- сбор и обработка данных;
+- распределенные query engines;
+- Lakehouse и S3-совместимые хранилища;
+- инфраструктура для аналитики и AI;
+- управление доступом к данным.
+
+### Безопасность и управление доступом
+
+- Identity and Access Management;
+- OAuth2, OIDC и интеграция с корпоративными каталогами;
+- Role-Based Access Control;
+- Policy as Code;
+- детализированная авторизация в data-платформах;
+- управление секретами и сервисными идентичностями.
+
+### Надежность и эксплуатация
+
+- observability и production readiness;
+- метрики, логи, трассировки и alerting;
+- анализ отказов и инцидентов;
+- автоматизация эксплуатации;
+- масштабируемость и отказоустойчивость;
+- безопасное и контролируемое управление изменениями.
+
+## Технологии
+
+**Data и распределенные системы**
+
+Kafka · Debezium · Trino · Spark · Airflow · S3 · MinIO · Lakehouse
+
+**Платформы и инфраструктура**
+
+Kubernetes · Docker · Terraform · Ansible · Helm · GitLab CI/CD · GitOps
+
+**Identity и security**
+
+Keycloak · Active Directory · OAuth2/OIDC · RBAC · OPA · Policy as Code
+
+**Observability**
+
+Prometheus · Grafana · Loki · Mimir · OpenTelemetry
+
+**Software engineering**
+
+Python · Go · Java · SQL · REST API · архитектура распределенных систем
+
+## Как я работаю
+
+Я совмещаю архитектурную ответственность с hands-on инженерной работой.
+
+Ключевые решения проверяю через реализацию, прототипирование, интеграцию и опыт эксплуатации в production. Для меня архитектура — это не отдельный этап подготовки документации, а непрерывный процесс принятия и проверки технических решений.
+
+Я предпочитаю решения, которые:
+
+- делают состояние системы и зоны ответственности явными;
+- уменьшают количество скрытых предположений;
+- остаются понятными другим инженерам;
+- позволяют воспроизводимо развертывать и эксплуатировать систему;
+- поддерживают безопасные и контролируемые изменения;
+- снижают зависимость от отдельных специалистов;
+- сохраняют поддерживаемость в долгосрочной перспективе.
+
+## Текущие профессиональные интересы
+
+- Platform API и control planes;
+- внутренние платформы для разработчиков;
+- инфраструктура данных и AI;
+- Policy as Code;
+- детализированная авторизация;
+- надежность распределенных систем;
+- AI-assisted software engineering;
+- open-source платформенные продукты.
+
+## Публичные проекты
+
+Здесь будут собраны открытые репозитории, reference implementations, архитектурные эксперименты и технические материалы по мере их подготовки к публикации.
+
+<!--
+Пример структуры для будущих проектов:
+
+### Название проекта
+
+Краткое описание задачи, архитектуры и личного вклада.
+
+**Технологии:** Kubernetes, Go, OPA, Trino
+
+[Репозиторий](https://github.com/letenkov/project-name)
+-->
+
+## Контакты
+
+- **Сайт:** [letenkov.ru](https://letenkov.ru)
+- **Email:** [eugene@letenkov.ru](mailto:eugene@letenkov.ru)
 - **Telegram:** [@letenkov](https://t.me/letenkov)
-
-### 💡 What I’m Looking For:
-
-- 🏢 **Collaborations** with businesses to implement DevOps solutions and automation
-- 🌐 Opportunities for **open source consulting** and developing SaaS products based on DevOps principles
-
-Thank you for visiting! If you're interested in learning how DevOps can improve your processes and reduce costs, I’d be happy to help.
+- **LinkedIn:** [linkedin.com/in/letenkov](https://www.linkedin.com/in/letenkov)
