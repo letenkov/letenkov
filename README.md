@@ -1,63 +1,63 @@
 [![Русская версия](https://img.shields.io/badge/lang-Русский-blue)](./README.ru.md)
 [![English version](https://img.shields.io/badge/lang-English-blue)](./README.md)
 
-# Евгений Летенков
+# Eugene Letenkov
 
-**Lead Platform Engineer · Data Platform Architect · Распределенные системы**
+**Lead Platform Engineer · Data Platform Architect · Distributed Systems**
 
-Я проектирую и создаю инженерные и data-платформы для приложений, аналитики и AI-сценариев.
+I design and build engineering and data platforms for applications, analytics, and AI workloads.
 
-Мой основной фокус — превращение сложной инфраструктуры в надежные, безопасные и поддерживаемые платформенные продукты, которые инженерные команды могут эксплуатировать и развивать без постоянного ручного вмешательства.
+My focus is on turning complex infrastructure into reliable, secure, and maintainable platform products that engineering teams can operate and evolve without constant manual intervention.
 
-## Основные направления
+## Engineering Focus
 
 ### Platform Engineering
 
-- внутренние платформы для разработчиков;
-- механизмы самообслуживания;
-- Infrastructure as Code;
-- CI/CD и GitOps;
-- платформы на базе Kubernetes;
-- воспроизводимые среды и эксплуатационные процессы.
+- Internal developer platforms
+- Self-service infrastructure
+- Infrastructure as Code
+- CI/CD and GitOps
+- Kubernetes-based platforms
+- Reproducible environments and operations
 
 ### Data Platforms
 
-- событийные и потоковые архитектуры;
-- сбор и обработка данных;
-- распределенные query engines;
-- Lakehouse и S3-совместимые хранилища;
-- инфраструктура для аналитики и AI;
-- управление доступом к данным.
+- Event-driven and streaming architectures
+- Data ingestion and processing
+- Distributed query engines
+- Lakehouse and S3-compatible storage
+- Analytics and AI infrastructure
+- Data access and governance
 
-### Безопасность и управление доступом
+### Security and Access Control
 
-- Identity and Access Management;
-- OAuth2, OIDC и интеграция с корпоративными каталогами;
-- Role-Based Access Control;
-- Policy as Code;
-- детализированная авторизация в data-платформах;
-- управление секретами и сервисными идентичностями.
+- Identity and access management
+- OAuth2, OIDC, and enterprise directory integration
+- Role-based access control
+- Policy as Code
+- Fine-grained authorization for data platforms
+- Secrets and service identity management
 
-### Надежность и эксплуатация
+### Reliability and Operations
 
-- observability и production readiness;
-- метрики, логи, трассировки и alerting;
-- анализ отказов и инцидентов;
-- автоматизация эксплуатации;
-- масштабируемость и отказоустойчивость;
-- безопасное и контролируемое управление изменениями.
+- Observability and production readiness
+- Metrics, logs, traces, and alerting
+- Failure analysis and incident response
+- Operational automation
+- Capacity, scalability, and resilience
+- Safe and controlled change management
 
-## Технологии
+## Technologies
 
-**Data и распределенные системы**
+**Data and distributed systems**
 
 Kafka · Debezium · Trino · Spark · Airflow · S3 · MinIO · Lakehouse
 
-**Платформы и инфраструктура**
+**Platforms and infrastructure**
 
 Kubernetes · Docker · Terraform · Ansible · Helm · GitLab CI/CD · GitOps
 
-**Identity и security**
+**Identity and security**
 
 Keycloak · Active Directory · OAuth2/OIDC · RBAC · OPA · Policy as Code
 
@@ -67,54 +67,54 @@ Prometheus · Grafana · Loki · Mimir · OpenTelemetry
 
 **Software engineering**
 
-Python · Go · Java · SQL · REST API · архитектура распределенных систем
+Python · Go · Java · SQL · REST APIs · Distributed Systems Architecture
 
-## Как я работаю
+## How I Work
 
-Я совмещаю архитектурную ответственность с hands-on инженерной работой.
+I combine architectural responsibility with hands-on engineering.
 
-Ключевые решения проверяю через реализацию, прототипирование, интеграцию и опыт эксплуатации в production. Для меня архитектура — это не отдельный этап подготовки документации, а непрерывный процесс принятия и проверки технических решений.
+I validate important decisions through implementation, prototypes, integration, and production experience. I consider architecture a continuous process of making and testing technical decisions rather than a separate documentation phase.
 
-Я предпочитаю решения, которые:
+I prefer solutions that:
 
-- делают состояние системы и зоны ответственности явными;
-- уменьшают количество скрытых предположений;
-- остаются понятными другим инженерам;
-- позволяют воспроизводимо развертывать и эксплуатировать систему;
-- поддерживают безопасные и контролируемые изменения;
-- снижают зависимость от отдельных специалистов;
-- сохраняют поддерживаемость в долгосрочной перспективе.
+- make system state and ownership explicit;
+- reduce hidden assumptions;
+- remain understandable to other engineers;
+- can be deployed and operated reproducibly;
+- support safe and controlled changes;
+- minimize dependency on individual specialists;
+- remain maintainable over the long term.
 
-## Текущие профессиональные интересы
+## Current Areas of Interest
 
-- Platform API и control planes;
-- внутренние платформы для разработчиков;
-- инфраструктура данных и AI;
-- Policy as Code;
-- детализированная авторизация;
-- надежность распределенных систем;
-- AI-assisted software engineering;
-- open-source платформенные продукты.
+- Platform APIs and control planes
+- Internal developer platforms
+- Data and AI infrastructure
+- Policy as Code
+- Fine-grained authorization
+- Distributed systems reliability
+- AI-assisted software engineering
+- Open-source platform products
 
-## Публичные проекты
+## Selected Projects
 
-Здесь будут собраны открытые репозитории, reference implementations, архитектурные эксперименты и технические материалы по мере их подготовки к публикации.
+Public repositories, reference implementations, architectural experiments, and technical notes will be listed here as they become ready for publication.
 
 <!--
-Пример структуры для будущих проектов:
+Example structure for future projects:
 
-### Название проекта
+### Project Name
 
-Краткое описание задачи, архитектуры и личного вклада.
+Short explanation of the problem, architecture, and your contribution.
 
-**Технологии:** Kubernetes, Go, OPA, Trino
+**Technologies:** Kubernetes, Go, OPA, Trino
 
-[Репозиторий](https://github.com/letenkov/project-name)
+[Repository](https://github.com/letenkov/project-name)
 -->
 
-## Контакты
+## Contact
 
-- **Сайт:** [letenkov.ru](https://letenkov.ru)
+- **Website:** [letenkov.ru](https://letenkov.ru)
 - **Email:** [eugene@letenkov.ru](mailto:eugene@letenkov.ru)
 - **Telegram:** [@letenkov](https://t.me/letenkov)
 - **LinkedIn:** [linkedin.com/in/letenkov](https://www.linkedin.com/in/letenkov)
